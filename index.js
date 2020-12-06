@@ -1,4 +1,4 @@
-let sortedArray = [];
+fslet sortedArray = [];
 let unsortedArray = [5, 6, -1, 1, 3];
 //find the smallest member and remove it 
 //set a variable, the min, and set it to the first index, it will ultimately be replaced with the true min
